@@ -1,7 +1,7 @@
 # stateful widjet show number 
 ## Eakkawee Puangbuppha 6340011020
 
-<img src="assset/cal_screen.png" style="width: 300px; height: 750px; max-width: 100%;">
+<img src="assset/cal_screen.png" style="width: 300px; height: 650px; max-width: 100%;">
 
 ## Getting Started
 
